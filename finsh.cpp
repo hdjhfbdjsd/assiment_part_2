@@ -317,7 +317,7 @@ void skew() {
         }
     }
 }
-
+//main function 
 int main() {
     char key;
     cout << "hello sir " << "\n";
