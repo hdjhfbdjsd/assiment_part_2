@@ -320,7 +320,7 @@ void skew() {
 
 int main() {
     char key;
-    cout << "hallo sir " << "\n";
+    cout << "hello sir " << "\n";
     cout << "load image to start edit " << "\n";
     
     
